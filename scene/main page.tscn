@@ -1,0 +1,104 @@
+[gd_scene load_steps=8 format=3 uid="uid://mqmed1vp5jpj"]
+
+[ext_resource type="Texture2D" uid="uid://brpl5bo7tydym" path="res://scene/Untitled_Artwork.png" id="1_in2la"]
+[ext_resource type="Script" uid="uid://liku3tqyndds" path="res://scene/main_page.gd" id="1_vcavv"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_vcavv"]
+texture = ExtResource("1_in2la")
+modulate_color = Color(0.73, 0.73, 0.73, 1)
+
+[sub_resource type="SystemFont" id="SystemFont_cwbg3"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_in2la"]
+bg_color = Color(0.62352943, 0.5372549, 0.3882353, 1)
+corner_radius_top_left = 30
+corner_radius_top_right = 30
+corner_radius_bottom_right = 30
+corner_radius_bottom_left = 30
+shadow_color = Color(0, 0, 0, 0.4)
+shadow_size = 5
+shadow_offset = Vector2(0, 5)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_vcavv"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_sogkx"]
+
+[node name="MainPage" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 4.0
+offset_bottom = 4.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_vcavv")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_vcavv")
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 354.0
+offset_top = -74.0
+offset_right = 501.76
+offset_bottom = 7.712036
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = SubResource("SystemFont_cwbg3")
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_in2la")
+theme_override_styles/hover = SubResource("StyleBoxFlat_vcavv")
+theme_override_styles/hover_pressed = SubResource("StyleBoxFlat_sogkx")
+text = "New game"
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 354.0
+offset_top = 126.0
+offset_right = 501.76
+offset_bottom = 207.71204
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = SubResource("SystemFont_cwbg3")
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_in2la")
+text = "Options"
+
+[node name="Button3" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 354.0
+offset_top = 26.0
+offset_right = 501.76
+offset_bottom = 107.712036
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = SubResource("SystemFont_cwbg3")
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_in2la")
+text = "Exit game"
+
+[connection signal="pressed" from="Button" to="." method="_on_new_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_opt_pressed"]
+[connection signal="pressed" from="Button3" to="." method="_on_exit_pressed"]
