@@ -15,6 +15,10 @@ run/main_scene="uid://mqmed1vp5jpj"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/viewport_width=648
+
 [input]
 
 left={

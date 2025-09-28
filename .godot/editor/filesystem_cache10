@@ -1,14 +1,41 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759069318
+::res://::1759077740
+daydream 2025 project.apple-touch-icon.png::CompressedTexture2D::4231819656645501107::1759077380::1759075054::1::::<><><>0<>0<>fa4d293833376877e0a46bc207a61822<>res://.godot/imported/daydream 2025 project.apple-touch-icon.png-53ec371f00d06e4af66373807fec9669.ctex::
+daydream 2025 project.icon.png::CompressedTexture2D::4668618533983022921::1759077380::1759075054::1::::<><><>0<>0<>0b4ba6ce6f81d8e99f53fd5ef2639ad4<>res://.godot/imported/daydream 2025 project.icon.png-99cee728a66a8e382aa6d38569e4ffaf.ctex::
+daydream 2025 project.png::CompressedTexture2D::2639060414474368926::1759077380::1759075054::1::::<><><>0<>0<>96572b6deecca200c68ce40c2f6a1b4d<>res://.godot/imported/daydream 2025 project.png-4afdc9f586fde3b01460578ff5df699b.ctex::
+export_presets.cfg::TextFile::-1::1759077740::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::5814074200001787705::1759061202::1759061601::1::::<><><>0<>0<>f41ca5350f37a7c0c28778fab2f20bd6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 new_script.gd::GDScript::7992878946906571686::1759064782::0::1::::<>Node<><>0<>0<><>::
+node_2d.tscn::PackedScene::7480749760631724867::1759071512::0::1::::<><><>0<>0<><>::uid://v7fck46bbwxm::::res://character_body_2d.gd<>uid://bje6ebhu5qkee::::res://art/Untitled_Artwork 2.png
 ::res://art/::1759068739
 Untitled_Artwork 2.png::CompressedTexture2D::3028267221689431764::1759068737::1759068737::1::::<><><>0<>0<>638719cef205bfb02759d54beb2a2f25<>res://.godot/imported/Untitled_Artwork 2.png-3f9a953aad8e2e74ca81ab5300de239a.ctex::
 Untitled_Artwork 3.png::CompressedTexture2D::2607689721392305330::1759068737::1759068737::1::::<><><>0<>0<>869d24c355ad95242915826d59180c32<>res://.godot/imported/Untitled_Artwork 3.png-4b120d4e4ec2cceef61e5c8c522defb3.ctex::
-::res://scene/::1759070023
-main page.tscn::PackedScene::876032113520506411::1759069006::0::1::::<><><>0<>0<><>::uid://brpl5bo7tydym::::res://scene/Untitled_Artwork.png<>uid://liku3tqyndds::::res://scene/main_page.gd
+::res://exports/::1759077489
+daydream 2025 project.apple-touch-icon.png::CompressedTexture2D::6276990417952118074::1759077390::1759077489::1::::<><><>0<>0<>9d4f2e00c6d3871830ac59aeb7a5b76a<>res://.godot/imported/daydream 2025 project.apple-touch-icon.png-ec1fe0dffd91a381e0cfd336214bb53c.ctex::
+daydream 2025 project.icon.png::CompressedTexture2D::8328141228578179514::1759077390::1759077489::1::::<><><>0<>0<>b8747c1b7a0f237ff0f8b57e7dd5082d<>res://.godot/imported/daydream 2025 project.icon.png-3930a0a244f2611452108920cd58fc4b.ctex::
+daydream 2025 project.png::CompressedTexture2D::7589398367796051408::1759077390::1759077489::1::::<><><>0<>0<>ece797484229a73d047374852a9c9e42<>res://.godot/imported/daydream 2025 project.png-a3c8865221e5227b9ba98f1212b74499.ctex::
+::res://exports/Archive/::1759077546
+daydream 2025 project.apple-touch-icon.png::CompressedTexture2D::8475641429738960242::1759077390::1759077489::1::::<><><>0<>0<>b5bdf7ea1d25cd064922f5a9237be3e7<>res://.godot/imported/daydream 2025 project.apple-touch-icon.png-35631f3420b465bbc5987f170cfe7d5d.ctex::
+daydream 2025 project.icon.png::CompressedTexture2D::1565691344369605142::1759077390::1759077489::1::::<><><>0<>0<>d81c313c1ddfa4eadadaa05f55434086<>res://.godot/imported/daydream 2025 project.icon.png-5c4772a0611b1d468baa32ee3b0a6894.ctex::
+daydream 2025 project.png::CompressedTexture2D::9083850709504972542::1759077390::1759077489::1::::<><><>0<>0<>a1301994ca9bd837f61df4053331c77f<>res://.godot/imported/daydream 2025 project.png-0317687e25f5317398a35661830fa82b.ctex::
+::res://exports1/::1759077725
+daydream 2025 project.apple-touch-icon.png::CompressedTexture2D::7484650689531755046::1759077717::1759077624::1::::<><><>0<>0<>991a58f6d35293e65ebc78d07b3bcd41<>res://.godot/imported/daydream 2025 project.apple-touch-icon.png-89c97dea04e6fd78803f1af01ab4a257.ctex::
+daydream 2025 project.icon.png::CompressedTexture2D::3464405001275380198::1759077717::1759077624::1::::<><><>0<>0<>42564ca9690405fd11633542732cb983<>res://.godot/imported/daydream 2025 project.icon.png-a8c62e81050371ea157fca62b5f9403f.ctex::
+daydream 2025 project.png::CompressedTexture2D::2471893466843001033::1759077717::1759077624::1::::<><><>0<>0<>589dff25d8d6cc100a76f8cab406ee7b<>res://.godot/imported/daydream 2025 project.png-d01a7d728ade47e7d94d5bdd622eaf63.ctex::
+::res://exports2/::1759077754
+daydream 2025 project.apple-touch-icon.png::CompressedTexture2D::7105190553603088020::1759077739::1759077769::1::::<><><>0<>0<>627f856cb66378ba0b8be267ec0b002a<>res://.godot/imported/daydream 2025 project.apple-touch-icon.png-8aac9dee4f90bd2adc1114d631c4c045.ctex::
+daydream 2025 project.icon.png::CompressedTexture2D::5250084252947471770::1759077739::1759077769::1::::<><><>0<>0<>4a30d3ec0bedaa274ed32e28c692cd9b<>res://.godot/imported/daydream 2025 project.icon.png-3eee2d3a121f3d6d8add05276dd9e1b3.ctex::
+daydream 2025 project.png::CompressedTexture2D::6338924736245045938::1759077739::1759077769::1::::<><><>0<>0<>68df7bb24248057a1f066c346283238f<>res://.godot/imported/daydream 2025 project.png-33ca242b487c51ac7a4ba70edaccbca7.ctex::
+::res://scene/::1759077516
+main page.tscn::PackedScene::876032113520506411::1759076550::0::1::::<><><>0<>0<><>::uid://brpl5bo7tydym::::res://scene/Untitled_Artwork.png<>uid://liku3tqyndds::::res://scene/main_page.gd
 main_page.gd::GDScript::789236688621238316::1759068416::0::1::::<>Control<><>0<>0<><>::
+animated_sprite_2d.gd::GDScript::3595724341761358704::1759072347::0::1::::<>AnimatedSprite2D<><>0<>0<><>::
+character.gd::GDScript::6616589710963826614::1759076044::0::1::::<>CharacterBody2D<><>0<>0<><>::
+area_2d.gd::GDScript::5929385984218518966::1759076313::0::1::::<>Area2D<><>0<>0<><>::
+ending1.tscn::PackedScene::7767237046091752309::1759076044::0::1::::<><><>0<>0<><>::
 Untitled_Artwork 2.png::CompressedTexture2D::8457425777110185244::1759069462::1759069462::1::::<><><>0<>0<>8da163ac7a768dbb3f44b495a1502db6<>res://.godot/imported/Untitled_Artwork 2.png-c3429ef803e32fe60ca3b89b3318fdcd.ctex::
+Untitled_Artwork 4.png::CompressedTexture2D::1662722214742872777::1759074165::1759074166::1::::<><><>0<>0<>6ac321100d481db3d4d417e8b95ee4a9<>res://.godot/imported/Untitled_Artwork 4.png-28f911c89cd64da927ee1615ddfdf4ef.ctex::
+Untitled_Artwork 5.png::CompressedTexture2D::612153722003544626::1759074161::1759074161::1::::<><><>0<>0<>0261d1a62deb8151d44ab41e35c25624<>res://.godot/imported/Untitled_Artwork 5.png-08ae632eeaff89712ef5598f6f0dc72b.ctex::
 Untitled_Artwork-1 2.png::CompressedTexture2D::7919790903720158896::1759069526::1759069526::1::::<><><>0<>0<>251845a23310440f2df825a411d7ab8f<>res://.godot/imported/Untitled_Artwork-1 2.png-4a4a2134ea6263dd7898cd76edeb0ff1.ctex::
 Untitled_Artwork-2 2.png::CompressedTexture2D::636885042905776936::1759069768::1759069768::1::::<><><>0<>0<>970ab0031acd8f5c60ba1e0e1255e32c<>res://.godot/imported/Untitled_Artwork-2 2.png-b8d832d0ccbb8c81e6639f129fcadea6.ctex::
 Untitled_Artwork-3 2.png::CompressedTexture2D::8381316512540625932::1759069765::1759069765::1::::<><><>0<>0<>23effe24d3ef31cf22f2795d065fb267<>res://.godot/imported/Untitled_Artwork-3 2.png-22086abc011ba283aaeec93a05dfe51d.ctex::
@@ -17,7 +44,6 @@ Untitled_Artwork-5 2.png::CompressedTexture2D::1066019775970628532::1759069757::
 Untitled_Artwork-6 2.png::CompressedTexture2D::1448512069553331067::1759069754::1759069754::1::::<><><>0<>0<>957d9829e9338933d0e0fb9dbba929e4<>res://.godot/imported/Untitled_Artwork-6 2.png-2c3fc5053e7ee922612779ef5b919d8e.ctex::
 Untitled_Artwork-7 2.png::CompressedTexture2D::8513851695712278128::1759069747::1759069747::1::::<><><>0<>0<>d9279524d7bde1ffd8ecf87f42aa2429<>res://.godot/imported/Untitled_Artwork-7 2.png-8af4ec9d4fab8c72c6c86d47dd8afd97.ctex::
 Untitled_Artwork.png::CompressedTexture2D::3611318228219009720::1759066783::1759066785::1::::<><><>0<>0<>4dadf7337998306b08d100f8b9aad7cf<>res://.godot/imported/Untitled_Artwork.png-c3e957128891f940243e34709ebe5bc8.ctex::
-world.tscn::PackedScene::3892566143440205006::1759070023::0::1::::<><><>0<>0<><>::uid://dk3n2f0mrq0ho::::res://scene/Untitled_Artwork-1 2.png
-::res://scripts/::1759070118
-player.gd::GDScript::3479494552130100224::1759068737::0::1::::<>CharacterBody2D<><>0<>0<><>::
+world.tscn::PackedScene::3892566143440205006::1759077516::0::1::::<><><>0<>0<><>::uid://dk3n2f0mrq0ho::::res://scene/Untitled_Artwork-1 2.png<>uid://c1jejbkysdpys::::res://scene/character.gd<>uid://bje6ebhu5qkee::::res://art/Untitled_Artwork 2.png<>uid://brh2b4cxyvmfo::::res://scene/animated_sprite_2d.gd<>uid://xxo16q2my41b::::res://scene/Untitled_Artwork 4.png<>uid://iysc2hi2pffm::::res://scene/Untitled_Artwork 5.png<>uid://cqqiedyrrpvyk::::res://scene/area_2d.gd
+::res://scripts/::1759070928
 Untitled_Artwork 3.png::CompressedTexture2D::6518913088376817890::1759070118::1759070118::1::::<><><>0<>0<>509b04b010fcc5564668ff99410aba13<>res://.godot/imported/Untitled_Artwork 3.png-59a12479d1163c6d27cce463da989785.ctex::

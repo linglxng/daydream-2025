@@ -5,3 +5,4 @@ res://character_body_2d.gd
 res://node_2d.tscn
 res://scene/animated_sprite_2d.gd
 res://scene/character.gd
+res://scene/area_2d.gd

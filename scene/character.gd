@@ -8,7 +8,7 @@ func _physics_process(delta):
 	velocity = direction * max_speed
 	move_and_slide()
 
-	if direction.length() > 0:
+	if direction.length() >= 0:
 		last_direction = direction
 		play_walk_animation(direction)
 		
@@ -22,3 +22,5 @@ func play_walk_animation(direction):
 		$AnimatedSprite2D.play("down")
 	elif direction.y > 0:
 		$AnimatedSprite2D.play("up")
+	else:
+		$AnimatedSprite2D.play("idle")
