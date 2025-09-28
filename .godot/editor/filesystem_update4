@@ -1,3 +1,7 @@
 res://scene/main page.tscn
 res://scene/main_page.gd
 res://scene/world.tscn
+res://character_body_2d.gd
+res://node_2d.tscn
+res://scene/animated_sprite_2d.gd
+res://scene/character.gd

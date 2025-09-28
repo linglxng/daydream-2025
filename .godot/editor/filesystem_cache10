@@ -1,15 +1,23 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759069008
+::res://::1759069318
 icon.svg::CompressedTexture2D::5814074200001787705::1759061202::1759061601::1::::<><><>0<>0<>f41ca5350f37a7c0c28778fab2f20bd6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 new_script.gd::GDScript::7992878946906571686::1759064782::0::1::::<>Node<><>0<>0<><>::
 ::res://art/::1759068739
 Untitled_Artwork 2.png::CompressedTexture2D::3028267221689431764::1759068737::1759068737::1::::<><><>0<>0<>638719cef205bfb02759d54beb2a2f25<>res://.godot/imported/Untitled_Artwork 2.png-3f9a953aad8e2e74ca81ab5300de239a.ctex::
 Untitled_Artwork 3.png::CompressedTexture2D::2607689721392305330::1759068737::1759068737::1::::<><><>0<>0<>869d24c355ad95242915826d59180c32<>res://.godot/imported/Untitled_Artwork 3.png-4b120d4e4ec2cceef61e5c8c522defb3.ctex::
-::res://scene/::1759069268
+::res://scene/::1759070023
 main page.tscn::PackedScene::876032113520506411::1759069006::0::1::::<><><>0<>0<><>::uid://brpl5bo7tydym::::res://scene/Untitled_Artwork.png<>uid://liku3tqyndds::::res://scene/main_page.gd
 main_page.gd::GDScript::789236688621238316::1759068416::0::1::::<>Control<><>0<>0<><>::
-Untitled_Artwork-1 2.png::CompressedTexture2D::7919790903720158896::1759069268::1759069268::1::::<><><>0<>0<>251845a23310440f2df825a411d7ab8f<>res://.godot/imported/Untitled_Artwork-1 2.png-4a4a2134ea6263dd7898cd76edeb0ff1.ctex::
+Untitled_Artwork 2.png::CompressedTexture2D::8457425777110185244::1759069462::1759069462::1::::<><><>0<>0<>8da163ac7a768dbb3f44b495a1502db6<>res://.godot/imported/Untitled_Artwork 2.png-c3429ef803e32fe60ca3b89b3318fdcd.ctex::
+Untitled_Artwork-1 2.png::CompressedTexture2D::7919790903720158896::1759069526::1759069526::1::::<><><>0<>0<>251845a23310440f2df825a411d7ab8f<>res://.godot/imported/Untitled_Artwork-1 2.png-4a4a2134ea6263dd7898cd76edeb0ff1.ctex::
+Untitled_Artwork-2 2.png::CompressedTexture2D::636885042905776936::1759069768::1759069768::1::::<><><>0<>0<>970ab0031acd8f5c60ba1e0e1255e32c<>res://.godot/imported/Untitled_Artwork-2 2.png-b8d832d0ccbb8c81e6639f129fcadea6.ctex::
+Untitled_Artwork-3 2.png::CompressedTexture2D::8381316512540625932::1759069765::1759069765::1::::<><><>0<>0<>23effe24d3ef31cf22f2795d065fb267<>res://.godot/imported/Untitled_Artwork-3 2.png-22086abc011ba283aaeec93a05dfe51d.ctex::
+Untitled_Artwork-4 2.png::CompressedTexture2D::8550204352687810066::1759069762::1759069762::1::::<><><>0<>0<>cee7ff560bd4e3a796373b1e0d216a06<>res://.godot/imported/Untitled_Artwork-4 2.png-8c3c0fa9bad2d308bd25b42fe0e651c0.ctex::
+Untitled_Artwork-5 2.png::CompressedTexture2D::1066019775970628532::1759069757::1759069757::1::::<><><>0<>0<>f6791512dae53d3ce1a7ae096613a104<>res://.godot/imported/Untitled_Artwork-5 2.png-027214813f234bfefe3b6034c3dab39b.ctex::
+Untitled_Artwork-6 2.png::CompressedTexture2D::1448512069553331067::1759069754::1759069754::1::::<><><>0<>0<>957d9829e9338933d0e0fb9dbba929e4<>res://.godot/imported/Untitled_Artwork-6 2.png-2c3fc5053e7ee922612779ef5b919d8e.ctex::
+Untitled_Artwork-7 2.png::CompressedTexture2D::8513851695712278128::1759069747::1759069747::1::::<><><>0<>0<>d9279524d7bde1ffd8ecf87f42aa2429<>res://.godot/imported/Untitled_Artwork-7 2.png-8af4ec9d4fab8c72c6c86d47dd8afd97.ctex::
 Untitled_Artwork.png::CompressedTexture2D::3611318228219009720::1759066783::1759066785::1::::<><><>0<>0<>4dadf7337998306b08d100f8b9aad7cf<>res://.godot/imported/Untitled_Artwork.png-c3e957128891f940243e34709ebe5bc8.ctex::
-world.tscn::PackedScene::3892566143440205006::1759069122::0::1::::<><><>0<>0<><>::
-::res://scripts/::1759068739
+world.tscn::PackedScene::3892566143440205006::1759070023::0::1::::<><><>0<>0<><>::uid://dk3n2f0mrq0ho::::res://scene/Untitled_Artwork-1 2.png
+::res://scripts/::1759070118
 player.gd::GDScript::3479494552130100224::1759068737::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Untitled_Artwork 3.png::CompressedTexture2D::6518913088376817890::1759070118::1759070118::1::::<><><>0<>0<>509b04b010fcc5564668ff99410aba13<>res://.godot/imported/Untitled_Artwork 3.png-59a12479d1163c6d27cce463da989785.ctex::
