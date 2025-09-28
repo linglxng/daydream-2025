@@ -1,8 +1,14 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759065152
-icon.svg::CompressedTexture2D::5814074200001787705::1759061202::1759061601::1::::<><><>0<>0<>f41ca5350f37a7c0c28778fab2f20bd6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-new_script.gd::GDScript::7992878946906571686::1759064782::0::1::::<>Node<><>0<>0<><>::
-::res://scene/::1759066783
-main page.tscn::PackedScene::876032113520506411::1759066230::0::1::::<><><>0<>0<><>::
-Untitled_Artwork.png::CompressedTexture2D::3611318228219009720::1759066783::1759066785::1::::<><><>0<>0<>4dadf7337998306b08d100f8b9aad7cf<>res://.godot/imported/Untitled_Artwork.png-c3e957128891f940243e34709ebe5bc8.ctex::
-world.tscn::PackedScene::3892566143440205006::1759062835::0::1::::<><><>0<>0<><>::
+::res://::1759068496
+icon.svg::CompressedTexture2D::5814074200001787705::1759062320::1759062320::1::::<><><>0<>0<>f41ca5350f37a7c0c28778fab2f20bd6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+new_script.gd::GDScript::7992878946906571686::1759068323::0::1::::<>Node<><>0<>0<><>::
+::res://art/::1759066101
+Untitled_Artwork 2.png::CompressedTexture2D::3028267221689431764::1759063721::1759063721::1::::<><><>0<>0<>638719cef205bfb02759d54beb2a2f25<>res://.godot/imported/Untitled_Artwork 2.png-3f9a953aad8e2e74ca81ab5300de239a.ctex::
+Untitled_Artwork 3.png::CompressedTexture2D::2607689721392305330::1759066094::1759066095::1::::<><><>0<>0<>869d24c355ad95242915826d59180c32<>res://.godot/imported/Untitled_Artwork 3.png-4b120d4e4ec2cceef61e5c8c522defb3.ctex::
+::res://scene/::1759068336
+main page.tscn::PackedScene::876032113520506411::1759068323::0::1::::<><><>0<>0<><>::uid://brpl5bo7tydym::::res://scene/Untitled_Artwork.png<>uid://liku3tqyndds::::res://scene/main_page.gd
+main_page.gd::GDScript::789236688621238316::1759068323::0::1::::<>Control<><>0<>0<><>::
+Untitled_Artwork.png::CompressedTexture2D::3611318228219009720::1759068323::1759068323::1::::<><><>0<>0<>4dadf7337998306b08d100f8b9aad7cf<>res://.godot/imported/Untitled_Artwork.png-c3e957128891f940243e34709ebe5bc8.ctex::
+world.tscn::PackedScene::3892566143440205006::1759062769::0::1::::<><><>0<>0<><>::
+::res://scripts/::1759065204
+player.gd::GDScript::3479494552130100224::1759065199::0::1::::<>CharacterBody2D<><>0<>0<><>::

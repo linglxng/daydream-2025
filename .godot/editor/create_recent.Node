@@ -1,4 +1,6 @@
-Panel
-VBoxContainer
-Button
+TileMapLayer
+Node2D
+AnimatedSprite2D
+CollisionShape2D
+CharacterBody2D
 Node
