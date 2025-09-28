@@ -1,3 +1,16 @@
-[gd_scene format=3 uid="uid://bvpt8384tsygc"]
+[gd_scene load_steps=3 format=3 uid="uid://bvpt8384tsygc"]
+
+[ext_resource type="Texture2D" uid="uid://dk3n2f0mrq0ho" path="res://scene/Untitled_Artwork-1 2.png" id="1_pjass"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_txmk2"]
+texture = ExtResource("1_pjass")
 
 [node name="world" type="Node"]
+
+[node name="Panel" type="Panel" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_txmk2")

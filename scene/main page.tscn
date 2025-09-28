@@ -56,6 +56,7 @@ offset_right = 501.76
 offset_bottom = 7.712036
 grow_horizontal = 2
 grow_vertical = 2
+rotation = 0.0008349801
 theme_override_fonts/font = SubResource("SystemFont_cwbg3")
 theme_override_font_sizes/font_size = 20
 theme_override_styles/normal = SubResource("StyleBoxFlat_in2la")
